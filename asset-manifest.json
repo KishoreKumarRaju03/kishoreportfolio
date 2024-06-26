@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kishoreportfolio/static/css/main.63c18734.css",
+    "main.js": "/kishoreportfolio/static/js/main.4a47c6c9.js",
+    "static/js/453.7ec6d1e6.chunk.js": "/kishoreportfolio/static/js/453.7ec6d1e6.chunk.js",
+    "static/media/conatctBackground.jpg": "/kishoreportfolio/static/media/conatctBackground.b545413ed9301d2c2108.jpg",
+    "static/media/cvBackgroundImage.jpg": "/kishoreportfolio/static/media/cvBackgroundImage.bda0c0b1798ed1ac86e1.jpg",
+    "static/media/UIproject1.jpg": "/kishoreportfolio/static/media/UIproject1.cadf2c53517fa4c56221.jpg",
+    "static/media/UIproject2.png": "/kishoreportfolio/static/media/UIproject2.36a789196636d39b5e50.png",
+    "static/media/comingsoonbackground.webp": "/kishoreportfolio/static/media/comingsoonbackground.08027a417206550e485d.webp",
+    "static/media/Uxlogo1.jpg": "/kishoreportfolio/static/media/Uxlogo1.18d2596e4dca11008ea4.jpg",
+    "static/media/kishore_kumar_front-end_dev_.pdf": "/kishoreportfolio/static/media/kishore_kumar_front-end_dev_.896298496b4a0c3f75f9.pdf",
+    "static/media/UXlogo2.jpg": "/kishoreportfolio/static/media/UXlogo2.feadb3f9404137644ef6.jpg",
+    "static/media/instagramLogo.png": "/kishoreportfolio/static/media/instagramLogo.a2e43df91aed96c38070.png",
+    "static/media/body-background.webp": "/kishoreportfolio/static/media/body-background.1f7b46139bca13a2208a.webp",
+    "static/media/linkedinLogo.webp": "/kishoreportfolio/static/media/linkedinLogo.dd5bb38a80f78b4c920c.webp",
+    "index.html": "/kishoreportfolio/index.html",
+    "main.63c18734.css.map": "/kishoreportfolio/static/css/main.63c18734.css.map",
+    "main.4a47c6c9.js.map": "/kishoreportfolio/static/js/main.4a47c6c9.js.map",
+    "453.7ec6d1e6.chunk.js.map": "/kishoreportfolio/static/js/453.7ec6d1e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c18734.css",
+    "static/js/main.4a47c6c9.js"
+  ]
+}
